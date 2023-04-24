@@ -19,7 +19,6 @@ gallery:
   - url: /assets/images/IMG_7100-min.png
     image_path: /assets/images/IMG_7100-min.png
     alt: "Personal art"
-    text: $50
   - url: /assets/images/IMG_6397-min.jpg
     image_path: /assets/images/IMG_6397-min.jpg
     alt: "Fweddyboy fanart"
@@ -32,7 +31,7 @@ gallery:
   - url: /assets/images/IMG_7504-removebg-preview-min.png
     image_path: /assets/images/IMG_7504-removebg-preview-min.png
     alt: "Chibi commission"
-  
+
 ---
 
 ## Welcome
@@ -48,6 +47,8 @@ Kurugari Itami is a talented freelance artist who specializes in creating stunni
 <br><br><br>
 
 ## Commissions
+![Example](/assets/images/Example.png)
+*$50*
 
 $30 for x
 $50 for yy
