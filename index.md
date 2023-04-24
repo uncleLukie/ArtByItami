@@ -4,7 +4,7 @@ title: "Itami Illustrations"
 classes: wide
 permalink: /
 header:
-  overlay_image: /assets/images/IMG_7059-removebg-preview_1_1280x640.png
+  overlay_image: /assets/images/banner.png
   #caption: "Photo credit: [**Ivan Semkov from Pexels**](https://www.pexels.com/photo/drawing-a-halloween-illustration-on-a-tablet-5428710/)"
   actions:
     - label: "Order a commission <3"
