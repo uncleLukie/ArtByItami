@@ -1,7 +1,7 @@
 logo: "/assets/images/fine-art-icon-14.png"
-title: "Art By Itami"
+title: "Itami Illustrations"
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "neon"
 url: "https://unclelukie.github.io"
 baseurl: '/ArtByItami'
 repository: "uncleLukie/ArtByItami"

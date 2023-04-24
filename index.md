@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Art by Itami"
+title: "Itami Illustrations"
 permalink: /
 header:
   overlay_image: /assets/images/pexels-ivan-samkov-5428710-min.jpg
@@ -10,10 +10,21 @@ header:
       url: "#commissions"
 excerpt: "A freelance character artist looking for work"
 sidebar:
-  - title: "Kurugari Itami#1234"
-    image: "/assets/images/itamiavatar.jpg"
+  - name: "Kurugari Itami#1234"
+    avatar: "/assets/images/itamiavatar.jpg"
     image_alt: "Avatar of Kurugari Itami"
     text: "I like turtles"
+    links:
+      - label: "Instagram"
+        icon: "fab fa-fw fa-instagram"
+        url: "https://www.instagram.com/itami_illustrations/"
+      - label: "TikTok"
+        icon: "fab fa-fw fa-tiktok"
+        url: "https://www.tiktok.com/@kuragari_itami"
+      - label: "Discord"
+        icon: "fab fa-fw fa-discord"
+        url: "https://discordapp.com/users/813312536698290206"
+
 gallery:
   - url: /assets/images/IMG_7464-min.png
     image_path: /assets/images/IMG_7464-min.png
