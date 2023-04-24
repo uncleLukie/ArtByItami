@@ -11,7 +11,7 @@ plugins:
 vendor_cache: vendor_cache.rb
 
 author:
-  name: "Kurugari Itami#1234"
+  name: "Kuragari Itami#1234"
   avatar: "/assets/images/itamiavatar.jpg"
   #image_alt: "Avatar of Kurugari Itami"
   bio: "I like turtles"

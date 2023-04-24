@@ -42,7 +42,7 @@ gallery:
 
 ## Welcome
 
-Kurugari Itami is a talented freelance artist who specializes in creating stunning illustrations in various styles. With a focus on character design and fan art, Itami's work has captured the hearts of many art enthusiasts.
+Kuragari Itami is a talented freelance artist who specializes in creating stunning illustrations in various styles. With a focus on character design and fan art, Itami's work has captured the hearts of many art enthusiasts.
 
 <br><br><br>
 
