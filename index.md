@@ -22,6 +22,12 @@ gallery:
   - url: /assets/images/IMG_6397-min.jpg
     image_path: /assets/images/IMG_6397-min.jpg
     alt: "Fweddyboy fanart"
+  - url: /assets/images/IMG_7178.png
+    image_path: /assets/images/IMG_7178.png
+    alt: "Lovebirds"
+  - url: /assets/images/IMG_7075.png
+    image_path: /assets/images/IMG_7075.png
+    alt: "Family"
   - url: /assets/images/IMG_7150-1-min.png
     image_path: /assets/images/IMG_7150-1-min.png
     alt: "Personal art 2"
