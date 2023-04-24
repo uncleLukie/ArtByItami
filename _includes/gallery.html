@@ -1,0 +1,12 @@
+{% if include.gallery %}
+<div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
+    {% for image in include.gallery %}
+    <figure class="gallery-item" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+        <a href="{{ image.url }}" itemprop="contentUrl" data-size="{{ image.dimensions }}">
+            <img src="{{ image.image_path }}" itemprop="thumbnail" alt="{{ image.alt }}" />
+        </a>
+        <figcaption itemprop="caption description">{{ image.caption }}</figcaption>
+    </figure>
+    {% endfor %}
+</div>
+{% endif %}

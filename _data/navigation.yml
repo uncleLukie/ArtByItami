@@ -1,0 +1,8 @@
+main:
+  - title: "Welcome"
+    url: "#welcome"
+  - title: "Gallery"
+    url: "#gallery"
+  - title: "Commissions"
+    url: "#commissions"
+
