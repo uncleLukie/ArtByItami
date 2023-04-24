@@ -1,3 +1,35 @@
-title: ArtByItami
-theme: minimal-mistakes-jekyll
-baseurl: "/repo-name"
+title: "Art By Itami"
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+
+author:
+  name: "Kurugari Itami"
+  bio: "Freelance artist creating beautiful illustrations and taking commissions"
+  avatar: "/assets/images/itamiavatar.jpg"
+  links:
+    - label: "Commissions"
+      icon: "fa-brands fa-paypal fa-beat"
+      url: "https://www.paypal.com/paypalme/mintlove108"
+    - label: "Discord"
+      icon: "fa-brands fa-discord"
+      url: "https://discordapp.com/users/813312536698290206"
+
+header:
+  main:
+    - label: "Portfolio"
+      url: "/portfolio"
+    - label: "Commissions"
+      url: "https://www.paypal.com/paypalme/mintlove108"
+
+collections:
+  portfolio:
+    output: true
+    permalink: "/portfolio/:path/"
+
+defaults:
+  - scope:
+      path: ""
+      type: "portfolio"
+    values:
+      layout: "single"
+      author_profile: false

@@ -1,5 +1,12 @@
 ---
-layout: home
+layout: archive
+title: "Art By Itami - Portfolio"
+permalink: /
+author_profile: true
+collection: portfolio
+entries_layout: grid
 ---
 
-Welcome to ArtByItami's Portfolio!
+{% for post in site.portfolio %}
+{% include archive-single.html %}
+{% endfor %}

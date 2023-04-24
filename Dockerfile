@@ -22,3 +22,5 @@ EXPOSE 4000
 
 # Run the Jekyll server
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
+
+
