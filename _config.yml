@@ -26,6 +26,10 @@ author:
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/p7RfDcn"
 
+social_links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/uncleLukie"
 
 atom_feed:
   hide: true
