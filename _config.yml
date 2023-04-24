@@ -25,6 +25,9 @@ author:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/p7RfDcn"
+    - label: "Paypal"
+      icon: "fab fa-fw fa-paypal"
+      url: "https://www.paypal.com/paypalme/mintlove108"
 
 social_links:
   - label: "GitHub"
@@ -33,3 +36,5 @@ social_links:
 
 atom_feed:
   hide: true
+
+footer: custom-footer.html

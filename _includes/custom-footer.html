@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <nav class="footer-nav">
+      <ul class="list-inline">
+        {% for link in site.social_links %}
+          <li class="list-inline-item">
+            <a href="{{ link.url }}" title="{{ link.label }}" class="text-muted">
+              <i class="{{ link.icon }}"></i> <span class="sr-only">{{ link.label }}</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. A website by uncleLukie, Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mmistakes.github.io/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</p>
+  </div>
+</footer>

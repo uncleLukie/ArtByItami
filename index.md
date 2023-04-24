@@ -19,6 +19,7 @@ gallery:
   - url: /assets/images/IMG_7100-min.png
     image_path: /assets/images/IMG_7100-min.png
     alt: "Personal art"
+    text: $50
   - url: /assets/images/IMG_6397-min.jpg
     image_path: /assets/images/IMG_6397-min.jpg
     alt: "Fweddyboy fanart"
