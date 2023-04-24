@@ -1,29 +1,15 @@
 ---
-layout: single
+layout: archive
 title: "Itami Illustrations"
 permalink: /
 header:
-  overlay_image: /assets/images/pexels-ivan-samkov-5428710-min.jpg
-  caption: "Photo credit: [**Ivan Semkov from Pexels**](https://www.pexels.com/photo/drawing-a-halloween-illustration-on-a-tablet-5428710/)"
+  overlay_image: /assets/images/IMG_7059-removebg-preview.png
+  #caption: "Photo credit: [**Ivan Semkov from Pexels**](https://www.pexels.com/photo/drawing-a-halloween-illustration-on-a-tablet-5428710/)"
   actions:
     - label: "Order a commission <3"
       url: "#commissions"
 excerpt: "A freelance character artist looking for work"
-sidebar:
-  - name: "Kurugari Itami#1234"
-    avatar: "/assets/images/itamiavatar.jpg"
-    image_alt: "Avatar of Kurugari Itami"
-    text: "I like turtles"
-    links:
-      - label: "Instagram"
-        icon: "fab fa-fw fa-instagram"
-        url: "https://www.instagram.com/itami_illustrations/"
-      - label: "TikTok"
-        icon: "fab fa-fw fa-tiktok"
-        url: "https://www.tiktok.com/@kuragari_itami"
-      - label: "Discord"
-        icon: "fab fa-fw fa-discord"
-        url: "https://discordapp.com/users/813312536698290206"
+author_profile: true
 
 gallery:
   - url: /assets/images/IMG_7464-min.png
@@ -50,7 +36,6 @@ gallery:
 ## Welcome
 
 Kurugari Itami is a talented freelance artist who specializes in creating stunning illustrations in various styles. With a focus on character design and fan art, Itami's work has captured the hearts of many art enthusiasts.
-
 
 ## Gallery
 
