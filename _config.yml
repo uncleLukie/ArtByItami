@@ -3,8 +3,8 @@ title: "Itami Illustrations"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
 url: "https://unclelukie.github.io"
-baseurl: '/ArtByItami'
-repository: "uncleLukie/ArtByItami"
+baseurl: '/ItamiIllustrations'
+repository: "uncleLukie/ItamiIllustrations"
 plugins:
   - jekyll-include-cache
 
