@@ -2,6 +2,7 @@ logo: "/assets/images/IMG_7505_1-min.jpg"
 title: "Itami Illustrations"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
+custom_sass: "_sass/custom.scss"
 url: "https://unclelukie.github.io"
 baseurl: '/ItamiIllustrations'
 repository: "uncleLukie/ItamiIllustrations"
