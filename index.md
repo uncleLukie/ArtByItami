@@ -40,6 +40,35 @@ gallery:
 
 ---
 
+<style>
+  .gallery__item {
+    padding: 0.25rem;
+  }
+
+  .gallery__image {
+    width: 100%;
+    height: auto;
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 991px) {
+    .gallery__item {
+      width: 50%;
+    }
+  }
+
+  @media screen and (min-width: 576px) and (max-width: 767px) {
+    .gallery__item {
+      width: 50%;
+    }
+  }
+
+  @media screen and (max-width: 575px) {
+    .gallery__item {
+      width: 100%;
+    }
+  }
+</style>
+
 ## Welcome
 
 Kuragari Itami is a talented freelance artist who specializes in creating stunning illustrations in various styles. With a focus on character design and fan art, Itami's work has captured the hearts of many art enthusiasts.
