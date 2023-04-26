@@ -7,8 +7,6 @@ baseurl: '/ItamiIllustrations'
 repository: "uncleLukie/ItamiIllustrations"
 plugins:
   - jekyll-include-cache
-vendor_cache: vendor_cache.rb
-
 
 author:
   name: "Kuragari Itami#1234"
