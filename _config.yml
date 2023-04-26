@@ -2,15 +2,13 @@ logo: "/assets/images/IMG_7505_1-min.jpg"
 title: "Itami Illustrations"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "neon"
-custom_sass: "_sass/custom.scss"
 url: "https://unclelukie.github.io"
 baseurl: '/ItamiIllustrations'
 repository: "uncleLukie/ItamiIllustrations"
 plugins:
   - jekyll-include-cache
 vendor_cache: vendor_cache.rb
-sass:
-  sass_dir: _sass
+
 
 author:
   name: "Kuragari Itami#1234"
