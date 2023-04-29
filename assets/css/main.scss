@@ -12,7 +12,7 @@ search: false
   }
 }
 
-$link-color: green();
+$background-color: red;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'neon' }}"; // skin
 @import "minimal-mistakes"; // main partials
