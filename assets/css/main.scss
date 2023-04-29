@@ -9,4 +9,7 @@
   }
 }
 
-@import "minimal-mistakes-jekyll/assets/css/main";
+@import "minimal-mistakes";
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'neon' }}";
+@import "minimal-mistakes-master";
+@import "minimal-mistakes-master/skins/{{ site.minimal_mistakes_skin | default: 'neon' }}";
