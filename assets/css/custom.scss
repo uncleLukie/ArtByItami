@@ -1,7 +1,0 @@
-/* Fix for full-screen gallery images on mobile devices */
-@media (max-width: 767px) {
-  .gallery__slider .slide {
-    height: auto !important;
-    max-height: 80vh;
-  }
-}
