@@ -4,11 +4,28 @@ search: false
 
 @charset "utf-8";
 
+/* Gallery container */
+figure.third {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Gallery images */
+figure.third a.image-popup {
+  flex: 0 1 calc(33.333% - 20px); /* 33.333% for three images per row, 20px for the margin */
+  margin: 10px;
+}
+
+/* Fix for full-screen gallery images on mobile devices */
 @media (max-width: 599px) {
-  .image-popup img {
-    width: 30%;
+  figure.third a.image-popup img {
+    width: 100%;
     height: auto;
-    margin: 0 auto; /* Center the image horizontally */
+  }
+
+  figure.third a.image-popup {
+    flex: 0 1 calc(50% - 20px); /* 50% for two images per row, 20px for the margin */
   }
 }
 
