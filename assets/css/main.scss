@@ -5,9 +5,10 @@ search: false
 @charset "utf-8";
 
 @media (max-width: 599px) {
-  .archive__item-teaser img {
-    max-width: 100%;
+  .gallery__item img {
+    width: 30%;
     height: auto;
+    margin: 0 auto; /* Center the image horizontally */
   }
 }
 
